@@ -1,2 +1,2 @@
 # ML-Notes-
-Created the notebooks for my understanding 
+Created the notebooks for my understanding.
